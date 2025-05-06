@@ -105,7 +105,7 @@ The main functionality is implemented in `main.cpp` with:
 {
   "name": "Nerissa",
   "image": "/path/to/image.jpg",
-  "description": "Nerissa's story never had a happy ending. She's known as the Little Mermaid, the young girl who gave up her tail for a pair of legs in the hopes of winning the heart of a handsome prince. When he married a princess instead, Nerissa was left heartbroken. She made the journey to the mundane world hoping for a better life. Now she dances at the Pudding and Pie, but each step she takes feels like walking on shards of glass. She has very little left, but finds some comfort in the company of her fellow dancers.",
+  "description": "Nerissa's story...",
   "teamId": "A35"
 }
 ```
@@ -115,3 +115,7 @@ The main functionality is implemented in `main.cpp` with:
 - WiFi problems: Verify credentials and network availability
 - API failures: Check if endpoints are accessible
 - Serial monitor: Use 115200 baud for debug output
+
+## Team Members
+- [Focus04](https://github.com/Focus04)
+- [Lucas](https://github.com/lookasdev)
