@@ -1,7 +1,5 @@
 # BLE API Fetcher
 
-![ESP32 BLE Communication](https://img.shields.io/badge/ESP32-BLE-blue) ![Team A35](https://img.shields.io/badge/Team-A35-orange)
-
 This ESP32 project connects to the PIA mobile app via Bluetooth Low Energy (BLE) and fetches character data from "The Wolf Among Us" API endpoints to send to the connected device.
 
 ## Key Features
