@@ -1,16 +1,15 @@
 # BLE API Fetcher
 
-This ESP32 project connects to the PIA mobile app via Bluetooth Low Energy (BLE) and fetches character data from "The Wolf Among Us" API endpoints to send to the connected device.
+This ESP32 program connects to a mobile device via Bluetooth Low Energy (BLE) and fetches character data from "The Wolf Among Us" API endpoints to send to the connected device.
 
 ## Key Features
 
 - BLE connectivity with custom service and characteristics
 - WiFi network scanning and connection handling
-- Two API endpoints integration:
+- The Wolf Among Us API endpoints integration:
   - Character list fetching
   - Detailed character information
 - JSON data parsing and transmission
-- Team identification (Team A35) in all responses
 
 ## Hardware Requirements
 
@@ -113,7 +112,3 @@ The main functionality is implemented in `main.cpp` with:
 - WiFi problems: Verify credentials and network availability
 - API failures: Check if endpoints are accessible
 - Serial monitor: Use 115200 baud for debug output
-
-## Team Members
-- [Focus04](https://github.com/Focus04)
-- [Lucas](https://github.com/lookasdev)
