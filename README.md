@@ -42,11 +42,6 @@ This ESP32 program connects to a mobile device via Bluetooth Low Energy (BLE) an
 - **Characteristic UUID:** `bd104210-8851-42d2-a610-3548f79dad88`
 - **Properties:** `READ`, `WRITE`, `NOTIFY`
 
-## API Endpoints
-
-- Character list: `http://proiectia.bogdanflorea.ro/api/the-wolf-among-us/characters`
-- Character details (append character ID): `http://proiectia.bogdanflorea.ro/api/the-wolf-among-us/character?id=`
-
 ## Supported BLE Commands
 
 The ESP32 responds to the following JSON actions received via BLE:
